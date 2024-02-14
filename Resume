@@ -5,7 +5,7 @@
            <title>Resume </title>
 </head>
 <body> 
-<h2 align = " center">WELCOME TO MY PROFILE </h2>
+<h2 align = "center">WELCOME TO MY PROFILE </h2>
 <p></p><br>
 
 
@@ -22,14 +22,14 @@
 </html>
       <!--header-->
       <header>
-          <tabele>
+          <table>
                <tr>
                     <td>
                         <img src="/hhh/jj.jpeg" alt=""
                         width=67px">
                     </td>
                </tr>
-          </tabele>
+          </table>
       </header>
       
       
